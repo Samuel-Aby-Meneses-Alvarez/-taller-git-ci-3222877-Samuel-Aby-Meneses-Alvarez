@@ -13,6 +13,6 @@ document.getElementById("btn-agregar").addEventListener("click", () => {
   agregarItem("Nuevo ítem");
 });
 
-console.log("App lista");
+console.log("Aplicación iniciada correctamente");
 
 module.exports = { suma, agregarItem };
