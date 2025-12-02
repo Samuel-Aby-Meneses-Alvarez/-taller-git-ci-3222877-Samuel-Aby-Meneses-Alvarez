@@ -13,12 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Samuel-Aby-Meneses-Alvarez/-taller-git-ci-3222877-Samuel-Aby-Meneses-Alvarez/issues"
   },
   "homepage": "https://github.com/Samuel-Aby-Meneses-Alvarez/-taller-git-ci-3222877-Samuel-Aby-Meneses-Alvarez#readme",
-    "devDependencies": {
+  "devDependencies": {
     "jest": "^30.2.0",
     "prettier": "^3.7.3"
   }
